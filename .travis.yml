@@ -37,5 +37,5 @@ install:
     #- npm install -g bower
     - npm install
     #- bower install
-script:
-    - ember test --server
+#script:
+#    - ember test --server
