@@ -39,3 +39,5 @@ install:
     #- bower install
 #script:
 #    - ember test --server
+services:
+    - redis-server
