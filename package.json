@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.4",
+    "express-validator": "^4.1.1",
     "redis": "^2.8.0"
   }
 }
